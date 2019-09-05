@@ -1,0 +1,31 @@
+ul {
+  font-size: 14px;
+  color: DarkSlateGray;
+}
+
+ol {
+  font-size: 18px;
+  color: DarkSlateGray;
+}
+
+table th {
+  color: DarkBlue;
+}
+table td {
+  background: white;
+}
+
+.warning {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+
+.warning {
+  background-color: orange;
+}
+
+/*# sourceMappingURL=sass.css.map */
